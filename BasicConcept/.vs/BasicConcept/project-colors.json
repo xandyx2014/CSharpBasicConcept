@@ -75,7 +75,12 @@
       "ProjectGuid": "adcf2390-7f9f-448d-8962-04fb0a4369db",
       "DisplayName": "InOutRef",
       "ColorIndex": 13
+    },
+    "eb673b19-8621-4e63-ac7d-e55cd2d5e25a": {
+      "ProjectGuid": "eb673b19-8621-4e63-ac7d-e55cd2d5e25a",
+      "DisplayName": "Reflection",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 15
 }
