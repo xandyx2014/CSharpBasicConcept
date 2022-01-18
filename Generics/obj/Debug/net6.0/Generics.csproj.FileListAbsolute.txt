@@ -1,0 +1,15 @@
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Generics\bin\Debug\net6.0\Generics.exe
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Generics\bin\Debug\net6.0\Generics.deps.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Generics\bin\Debug\net6.0\Generics.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Generics\bin\Debug\net6.0\ref\Generics.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Generics\bin\Debug\net6.0\Generics.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Generics\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Generics\obj\Debug\net6.0\Generics.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Generics\obj\Debug\net6.0\ref\Generics.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Generics\obj\Debug\net6.0\Generics.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache

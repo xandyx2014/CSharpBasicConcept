@@ -1,0 +1,15 @@
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Task\bin\Debug\net6.0\Task.exe
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Task\bin\Debug\net6.0\Task.deps.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Task\bin\Debug\net6.0\Task.runtimeconfig.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Task\bin\Debug\net6.0\Task.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Task\bin\Debug\net6.0\ref\Task.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Task\bin\Debug\net6.0\Task.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Task\obj\Debug\net6.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Task\obj\Debug\net6.0\Task.AssemblyInfoInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Task\obj\Debug\net6.0\Task.AssemblyInfo.cs
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Task\obj\Debug\net6.0\Task.csproj.CoreCompileInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Task\obj\Debug\net6.0\Task.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Task\obj\Debug\net6.0\ref\Task.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Task\obj\Debug\net6.0\Task.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Task\obj\Debug\net6.0\Task.csproj.AssemblyReference.cache

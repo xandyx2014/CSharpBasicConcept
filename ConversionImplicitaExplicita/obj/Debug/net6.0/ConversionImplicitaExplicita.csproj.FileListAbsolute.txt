@@ -1,0 +1,14 @@
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\bin\Debug\net6.0\ConversionImplicitaExplicita.exe
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\bin\Debug\net6.0\ConversionImplicitaExplicita.deps.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\bin\Debug\net6.0\ConversionImplicitaExplicita.runtimeconfig.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\bin\Debug\net6.0\ConversionImplicitaExplicita.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\bin\Debug\net6.0\ref\ConversionImplicitaExplicita.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\bin\Debug\net6.0\ConversionImplicitaExplicita.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\obj\Debug\net6.0\ConversionImplicitaExplicita.GeneratedMSBuildEditorConfig.editorconfig
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\obj\Debug\net6.0\ConversionImplicitaExplicita.AssemblyInfoInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\obj\Debug\net6.0\ConversionImplicitaExplicita.AssemblyInfo.cs
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\obj\Debug\net6.0\ConversionImplicitaExplicita.csproj.CoreCompileInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\obj\Debug\net6.0\ConversionImplicitaExplicita.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\obj\Debug\net6.0\ref\ConversionImplicitaExplicita.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\obj\Debug\net6.0\ConversionImplicitaExplicita.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\obj\Debug\net6.0\ConversionImplicitaExplicita.genruntimeconfig.cache

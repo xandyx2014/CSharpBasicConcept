@@ -1,0 +1,14 @@
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Parallel\bin\Debug\net6.0\Parallel.exe
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Parallel\bin\Debug\net6.0\Parallel.deps.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Parallel\bin\Debug\net6.0\Parallel.runtimeconfig.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Parallel\bin\Debug\net6.0\Parallel.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Parallel\bin\Debug\net6.0\ref\Parallel.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Parallel\bin\Debug\net6.0\Parallel.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Parallel\obj\Debug\net6.0\Parallel.GeneratedMSBuildEditorConfig.editorconfig
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Parallel\obj\Debug\net6.0\Parallel.AssemblyInfoInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Parallel\obj\Debug\net6.0\Parallel.AssemblyInfo.cs
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Parallel\obj\Debug\net6.0\Parallel.csproj.CoreCompileInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Parallel\obj\Debug\net6.0\Parallel.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Parallel\obj\Debug\net6.0\ref\Parallel.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Parallel\obj\Debug\net6.0\Parallel.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Parallel\obj\Debug\net6.0\Parallel.genruntimeconfig.cache

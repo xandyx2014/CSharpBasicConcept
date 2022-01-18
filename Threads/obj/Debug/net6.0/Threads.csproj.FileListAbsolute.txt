@@ -1,0 +1,14 @@
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Threads\bin\Debug\net6.0\Threads.exe
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Threads\bin\Debug\net6.0\Threads.deps.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Threads\bin\Debug\net6.0\Threads.runtimeconfig.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Threads\bin\Debug\net6.0\Threads.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Threads\bin\Debug\net6.0\ref\Threads.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Threads\bin\Debug\net6.0\Threads.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Threads\obj\Debug\net6.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Threads\obj\Debug\net6.0\Threads.AssemblyInfoInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Threads\obj\Debug\net6.0\Threads.AssemblyInfo.cs
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Threads\obj\Debug\net6.0\Threads.csproj.CoreCompileInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Threads\obj\Debug\net6.0\Threads.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Threads\obj\Debug\net6.0\ref\Threads.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Threads\obj\Debug\net6.0\Threads.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Threads\obj\Debug\net6.0\Threads.genruntimeconfig.cache

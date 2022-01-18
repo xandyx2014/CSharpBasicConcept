@@ -1,0 +1,15 @@
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\EventsAndCallbacks\bin\Debug\net6.0\EventsAndCallbacks.exe
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\EventsAndCallbacks\bin\Debug\net6.0\EventsAndCallbacks.deps.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\EventsAndCallbacks\bin\Debug\net6.0\EventsAndCallbacks.runtimeconfig.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\EventsAndCallbacks\bin\Debug\net6.0\EventsAndCallbacks.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\EventsAndCallbacks\bin\Debug\net6.0\ref\EventsAndCallbacks.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\EventsAndCallbacks\bin\Debug\net6.0\EventsAndCallbacks.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\EventsAndCallbacks\obj\Debug\net6.0\EventsAndCallbacks.GeneratedMSBuildEditorConfig.editorconfig
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\EventsAndCallbacks\obj\Debug\net6.0\EventsAndCallbacks.AssemblyInfoInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\EventsAndCallbacks\obj\Debug\net6.0\EventsAndCallbacks.AssemblyInfo.cs
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\EventsAndCallbacks\obj\Debug\net6.0\EventsAndCallbacks.csproj.CoreCompileInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\EventsAndCallbacks\obj\Debug\net6.0\EventsAndCallbacks.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\EventsAndCallbacks\obj\Debug\net6.0\ref\EventsAndCallbacks.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\EventsAndCallbacks\obj\Debug\net6.0\EventsAndCallbacks.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\EventsAndCallbacks\obj\Debug\net6.0\EventsAndCallbacks.genruntimeconfig.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\EventsAndCallbacks\obj\Debug\net6.0\EventsAndCallbacks.csproj.AssemblyReference.cache

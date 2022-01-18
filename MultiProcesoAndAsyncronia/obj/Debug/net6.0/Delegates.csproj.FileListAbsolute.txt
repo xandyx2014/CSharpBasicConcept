@@ -1,0 +1,15 @@
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\MultiProcesoAndAsyncronia\bin\Debug\net6.0\Delegates.exe
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\MultiProcesoAndAsyncronia\bin\Debug\net6.0\Delegates.deps.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\MultiProcesoAndAsyncronia\bin\Debug\net6.0\Delegates.runtimeconfig.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\MultiProcesoAndAsyncronia\bin\Debug\net6.0\Delegates.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\MultiProcesoAndAsyncronia\bin\Debug\net6.0\ref\Delegates.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\MultiProcesoAndAsyncronia\bin\Debug\net6.0\Delegates.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\MultiProcesoAndAsyncronia\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\MultiProcesoAndAsyncronia\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\MultiProcesoAndAsyncronia\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\MultiProcesoAndAsyncronia\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\MultiProcesoAndAsyncronia\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\MultiProcesoAndAsyncronia\obj\Debug\net6.0\Delegates.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\MultiProcesoAndAsyncronia\obj\Debug\net6.0\ref\Delegates.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\MultiProcesoAndAsyncronia\obj\Debug\net6.0\Delegates.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\MultiProcesoAndAsyncronia\obj\Debug\net6.0\Delegates.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\AsyncAndAwait\bin\Debug\net6.0\AsyncAndAwait.exe
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\AsyncAndAwait\bin\Debug\net6.0\AsyncAndAwait.deps.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\AsyncAndAwait\bin\Debug\net6.0\AsyncAndAwait.runtimeconfig.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\AsyncAndAwait\bin\Debug\net6.0\AsyncAndAwait.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\AsyncAndAwait\bin\Debug\net6.0\ref\AsyncAndAwait.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\AsyncAndAwait\bin\Debug\net6.0\AsyncAndAwait.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\AsyncAndAwait\obj\Debug\net6.0\AsyncAndAwait.GeneratedMSBuildEditorConfig.editorconfig
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\AsyncAndAwait\obj\Debug\net6.0\AsyncAndAwait.AssemblyInfoInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\AsyncAndAwait\obj\Debug\net6.0\AsyncAndAwait.AssemblyInfo.cs
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\AsyncAndAwait\obj\Debug\net6.0\AsyncAndAwait.csproj.CoreCompileInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\AsyncAndAwait\obj\Debug\net6.0\AsyncAndAwait.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\AsyncAndAwait\obj\Debug\net6.0\ref\AsyncAndAwait.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\AsyncAndAwait\obj\Debug\net6.0\AsyncAndAwait.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\AsyncAndAwait\obj\Debug\net6.0\AsyncAndAwait.genruntimeconfig.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\AsyncAndAwait\obj\Debug\net6.0\AsyncAndAwait.csproj.AssemblyReference.cache

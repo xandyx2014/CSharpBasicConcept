@@ -1,0 +1,14 @@
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\InOutRef\bin\Debug\net6.0\InOutRef.exe
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\InOutRef\bin\Debug\net6.0\InOutRef.deps.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\InOutRef\bin\Debug\net6.0\InOutRef.runtimeconfig.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\InOutRef\bin\Debug\net6.0\InOutRef.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\InOutRef\bin\Debug\net6.0\ref\InOutRef.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\InOutRef\bin\Debug\net6.0\InOutRef.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\InOutRef\obj\Debug\net6.0\InOutRef.GeneratedMSBuildEditorConfig.editorconfig
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\InOutRef\obj\Debug\net6.0\InOutRef.AssemblyInfoInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\InOutRef\obj\Debug\net6.0\InOutRef.AssemblyInfo.cs
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\InOutRef\obj\Debug\net6.0\InOutRef.csproj.CoreCompileInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\InOutRef\obj\Debug\net6.0\InOutRef.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\InOutRef\obj\Debug\net6.0\ref\InOutRef.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\InOutRef\obj\Debug\net6.0\InOutRef.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\InOutRef\obj\Debug\net6.0\InOutRef.genruntimeconfig.cache
