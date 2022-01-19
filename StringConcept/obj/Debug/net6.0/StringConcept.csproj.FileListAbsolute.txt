@@ -1,0 +1,15 @@
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\StringConcept\bin\Debug\net6.0\StringConcept.exe
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\StringConcept\bin\Debug\net6.0\StringConcept.deps.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\StringConcept\bin\Debug\net6.0\StringConcept.runtimeconfig.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\StringConcept\bin\Debug\net6.0\StringConcept.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\StringConcept\bin\Debug\net6.0\ref\StringConcept.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\StringConcept\bin\Debug\net6.0\StringConcept.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\StringConcept\obj\Debug\net6.0\StringConcept.GeneratedMSBuildEditorConfig.editorconfig
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\StringConcept\obj\Debug\net6.0\StringConcept.AssemblyInfoInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\StringConcept\obj\Debug\net6.0\StringConcept.AssemblyInfo.cs
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\StringConcept\obj\Debug\net6.0\StringConcept.csproj.CoreCompileInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\StringConcept\obj\Debug\net6.0\StringConcept.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\StringConcept\obj\Debug\net6.0\ref\StringConcept.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\StringConcept\obj\Debug\net6.0\StringConcept.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\StringConcept\obj\Debug\net6.0\StringConcept.genruntimeconfig.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\StringConcept\obj\Debug\net6.0\StringConcept.csproj.AssemblyReference.cache

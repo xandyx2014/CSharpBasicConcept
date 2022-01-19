@@ -78,9 +78,14 @@
     },
     "eb673b19-8621-4e63-ac7d-e55cd2d5e25a": {
       "ProjectGuid": "eb673b19-8621-4e63-ac7d-e55cd2d5e25a",
-      "DisplayName": "Reflection",
+      "DisplayName": "Attributes",
       "ColorIndex": 14
+    },
+    "8b0562c1-d7ef-498a-850d-80e7b6f03412": {
+      "ProjectGuid": "8b0562c1-d7ef-498a-850d-80e7b6f03412",
+      "DisplayName": "ReflectionExample",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 15
+  "NextColorIndex": 0
 }
