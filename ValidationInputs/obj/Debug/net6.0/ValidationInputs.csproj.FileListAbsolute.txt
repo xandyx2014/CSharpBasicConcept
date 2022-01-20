@@ -1,0 +1,15 @@
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ValidationInputs\bin\Debug\net6.0\ValidationInputs.exe
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ValidationInputs\bin\Debug\net6.0\ValidationInputs.deps.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ValidationInputs\bin\Debug\net6.0\ValidationInputs.runtimeconfig.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ValidationInputs\bin\Debug\net6.0\ValidationInputs.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ValidationInputs\bin\Debug\net6.0\ref\ValidationInputs.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ValidationInputs\bin\Debug\net6.0\ValidationInputs.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ValidationInputs\obj\Debug\net6.0\ValidationInputs.GeneratedMSBuildEditorConfig.editorconfig
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ValidationInputs\obj\Debug\net6.0\ValidationInputs.AssemblyInfoInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ValidationInputs\obj\Debug\net6.0\ValidationInputs.AssemblyInfo.cs
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ValidationInputs\obj\Debug\net6.0\ValidationInputs.csproj.CoreCompileInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ValidationInputs\obj\Debug\net6.0\ValidationInputs.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ValidationInputs\obj\Debug\net6.0\ref\ValidationInputs.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ValidationInputs\obj\Debug\net6.0\ValidationInputs.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ValidationInputs\obj\Debug\net6.0\ValidationInputs.genruntimeconfig.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ValidationInputs\obj\Debug\net6.0\ValidationInputs.csproj.AssemblyReference.cache

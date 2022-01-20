@@ -1,0 +1,14 @@
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Hash\bin\Debug\net6.0\Hash.exe
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Hash\bin\Debug\net6.0\Hash.deps.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Hash\bin\Debug\net6.0\Hash.runtimeconfig.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Hash\bin\Debug\net6.0\Hash.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Hash\bin\Debug\net6.0\ref\Hash.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Hash\bin\Debug\net6.0\Hash.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Hash\obj\Debug\net6.0\Hash.GeneratedMSBuildEditorConfig.editorconfig
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Hash\obj\Debug\net6.0\Hash.AssemblyInfoInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Hash\obj\Debug\net6.0\Hash.AssemblyInfo.cs
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Hash\obj\Debug\net6.0\Hash.csproj.CoreCompileInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Hash\obj\Debug\net6.0\Hash.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Hash\obj\Debug\net6.0\ref\Hash.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Hash\obj\Debug\net6.0\Hash.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Hash\obj\Debug\net6.0\Hash.genruntimeconfig.cache

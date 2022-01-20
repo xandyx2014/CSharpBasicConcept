@@ -1,0 +1,16 @@
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Ensamblado\bin\Debug\net6.0\Ensamblado.exe
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Ensamblado\bin\Debug\net6.0\Ensamblado.deps.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Ensamblado\bin\Debug\net6.0\Ensamblado.runtimeconfig.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Ensamblado\bin\Debug\net6.0\Ensamblado.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Ensamblado\bin\Debug\net6.0\ref\Ensamblado.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Ensamblado\bin\Debug\net6.0\Ensamblado.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Ensamblado\obj\Debug\net6.0\Ensamblado.Properties.Resources.resources
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Ensamblado\obj\Debug\net6.0\Ensamblado.csproj.GenerateResource.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Ensamblado\obj\Debug\net6.0\Ensamblado.GeneratedMSBuildEditorConfig.editorconfig
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Ensamblado\obj\Debug\net6.0\Ensamblado.AssemblyInfoInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Ensamblado\obj\Debug\net6.0\Ensamblado.AssemblyInfo.cs
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Ensamblado\obj\Debug\net6.0\Ensamblado.csproj.CoreCompileInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Ensamblado\obj\Debug\net6.0\Ensamblado.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Ensamblado\obj\Debug\net6.0\ref\Ensamblado.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Ensamblado\obj\Debug\net6.0\Ensamblado.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\Ensamblado\obj\Debug\net6.0\Ensamblado.genruntimeconfig.cache

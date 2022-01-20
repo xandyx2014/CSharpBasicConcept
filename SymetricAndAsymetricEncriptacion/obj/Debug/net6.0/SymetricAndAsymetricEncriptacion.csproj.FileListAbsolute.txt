@@ -1,0 +1,14 @@
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\SymetricAndAsymetricEncriptacion\bin\Debug\net6.0\SymetricAndAsymetricEncriptacion.exe
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\SymetricAndAsymetricEncriptacion\bin\Debug\net6.0\SymetricAndAsymetricEncriptacion.deps.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\SymetricAndAsymetricEncriptacion\bin\Debug\net6.0\SymetricAndAsymetricEncriptacion.runtimeconfig.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\SymetricAndAsymetricEncriptacion\bin\Debug\net6.0\SymetricAndAsymetricEncriptacion.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\SymetricAndAsymetricEncriptacion\bin\Debug\net6.0\ref\SymetricAndAsymetricEncriptacion.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\SymetricAndAsymetricEncriptacion\bin\Debug\net6.0\SymetricAndAsymetricEncriptacion.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\SymetricAndAsymetricEncriptacion\obj\Debug\net6.0\SymetricAndAsymetricEncriptacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\SymetricAndAsymetricEncriptacion\obj\Debug\net6.0\SymetricAndAsymetricEncriptacion.AssemblyInfoInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\SymetricAndAsymetricEncriptacion\obj\Debug\net6.0\SymetricAndAsymetricEncriptacion.AssemblyInfo.cs
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\SymetricAndAsymetricEncriptacion\obj\Debug\net6.0\SymetricAndAsymetricEncriptacion.csproj.CoreCompileInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\SymetricAndAsymetricEncriptacion\obj\Debug\net6.0\SymetricAndAsymetricEncriptacion.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\SymetricAndAsymetricEncriptacion\obj\Debug\net6.0\ref\SymetricAndAsymetricEncriptacion.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\SymetricAndAsymetricEncriptacion\obj\Debug\net6.0\SymetricAndAsymetricEncriptacion.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\SymetricAndAsymetricEncriptacion\obj\Debug\net6.0\SymetricAndAsymetricEncriptacion.genruntimeconfig.cache

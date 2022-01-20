@@ -12,3 +12,4 @@ D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita
 D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\obj\Debug\net6.0\ref\ConversionImplicitaExplicita.dll
 D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\obj\Debug\net6.0\ConversionImplicitaExplicita.pdb
 D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\obj\Debug\net6.0\ConversionImplicitaExplicita.genruntimeconfig.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\ConversionImplicitaExplicita\obj\Debug\net6.0\ConversionImplicitaExplicita.csproj.AssemblyReference.cache

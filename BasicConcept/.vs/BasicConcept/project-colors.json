@@ -85,7 +85,37 @@
       "ProjectGuid": "8b0562c1-d7ef-498a-850d-80e7b6f03412",
       "DisplayName": "ReflectionExample",
       "ColorIndex": 15
+    },
+    "6ea8b1e6-bacb-492c-9c89-736b9b04a4fa": {
+      "ProjectGuid": "6ea8b1e6-bacb-492c-9c89-736b9b04a4fa",
+      "DisplayName": "StringConcept",
+      "ColorIndex": 0
+    },
+    "78c1cb7e-eb64-412b-9580-83c108b46d2a": {
+      "ProjectGuid": "78c1cb7e-eb64-412b-9580-83c108b46d2a",
+      "DisplayName": "ValidationInputs",
+      "ColorIndex": 1
+    },
+    "285cae5b-d1e7-493c-b2db-389860f7011f": {
+      "ProjectGuid": "285cae5b-d1e7-493c-b2db-389860f7011f",
+      "DisplayName": "JsonAndXmlValidation",
+      "ColorIndex": 2
+    },
+    "985a3761-5038-4cee-8916-9d642f33a146": {
+      "ProjectGuid": "985a3761-5038-4cee-8916-9d642f33a146",
+      "DisplayName": "SymetricAndAsymetricEncriptacion",
+      "ColorIndex": 3
+    },
+    "020af8dc-1db2-4ba9-adf5-584b5f840b02": {
+      "ProjectGuid": "020af8dc-1db2-4ba9-adf5-584b5f840b02",
+      "DisplayName": "Hash",
+      "ColorIndex": 4
+    },
+    "971488b8-314f-4c49-af1f-a93164256f21": {
+      "ProjectGuid": "971488b8-314f-4c49-af1f-a93164256f21",
+      "DisplayName": "Ensamblado",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 6
 }
