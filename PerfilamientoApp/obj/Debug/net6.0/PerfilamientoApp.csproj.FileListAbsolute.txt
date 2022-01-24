@@ -1,0 +1,14 @@
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\PerfilamientoApp\bin\Debug\net6.0\PerfilamientoApp.exe
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\PerfilamientoApp\bin\Debug\net6.0\PerfilamientoApp.deps.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\PerfilamientoApp\bin\Debug\net6.0\PerfilamientoApp.runtimeconfig.json
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\PerfilamientoApp\bin\Debug\net6.0\PerfilamientoApp.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\PerfilamientoApp\bin\Debug\net6.0\ref\PerfilamientoApp.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\PerfilamientoApp\bin\Debug\net6.0\PerfilamientoApp.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\PerfilamientoApp\obj\Debug\net6.0\PerfilamientoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\PerfilamientoApp\obj\Debug\net6.0\PerfilamientoApp.AssemblyInfoInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\PerfilamientoApp\obj\Debug\net6.0\PerfilamientoApp.AssemblyInfo.cs
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\PerfilamientoApp\obj\Debug\net6.0\PerfilamientoApp.csproj.CoreCompileInputs.cache
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\PerfilamientoApp\obj\Debug\net6.0\PerfilamientoApp.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\PerfilamientoApp\obj\Debug\net6.0\ref\PerfilamientoApp.dll
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\PerfilamientoApp\obj\Debug\net6.0\PerfilamientoApp.pdb
+D:\OFFICE\Projects\Courses\ASp.netCore\BasicConcept\PerfilamientoApp\obj\Debug\net6.0\PerfilamientoApp.genruntimeconfig.cache

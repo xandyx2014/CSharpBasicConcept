@@ -115,7 +115,12 @@
       "ProjectGuid": "971488b8-314f-4c49-af1f-a93164256f21",
       "DisplayName": "Ensamblado",
       "ColorIndex": 5
+    },
+    "aa8cfcca-941f-4819-acee-eace4b6adf67": {
+      "ProjectGuid": "aa8cfcca-941f-4819-acee-eace4b6adf67",
+      "DisplayName": "PerfilamientoApp",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }
