@@ -47,7 +47,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hash", "..\Hash\Hash.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ensamblado", "..\Ensamblado\Ensamblado.csproj", "{971488B8-314F-4C49-AF1F-A93164256F21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfilamientoApp", "..\PerfilamientoApp\PerfilamientoApp.csproj", "{AA8CFCCA-941F-4819-ACEE-EACE4B6ADF67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PerfilamientoApp", "..\PerfilamientoApp\PerfilamientoApp.csproj", "{AA8CFCCA-941F-4819-ACEE-EACE4B6ADF67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConectionStringSql", "..\ConectionStringSql\ConectionStringSql.csproj", "{ED8C52F7-ABDF-4E03-AF81-28FF87B839E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitTypesVarable", "..\ImplicitTypesVarable\ImplicitTypesVarable.csproj", "{B7ABBEB2-AB15-4762-82E5-868F9022D78D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqQueries", "..\LinqQueries\LinqQueries.csproj", "{2C5E17A8-2095-410A-9B57-D77ACF3E4394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializacionAndDeseralizacion", "..\SerializacionAndDeseralizacion\SerializacionAndDeseralizacion.csproj", "{226E214C-99ED-4AEE-A223-3171904E39DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +155,22 @@ Global
 		{AA8CFCCA-941F-4819-ACEE-EACE4B6ADF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA8CFCCA-941F-4819-ACEE-EACE4B6ADF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA8CFCCA-941F-4819-ACEE-EACE4B6ADF67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED8C52F7-ABDF-4E03-AF81-28FF87B839E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8C52F7-ABDF-4E03-AF81-28FF87B839E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8C52F7-ABDF-4E03-AF81-28FF87B839E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8C52F7-ABDF-4E03-AF81-28FF87B839E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7ABBEB2-AB15-4762-82E5-868F9022D78D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7ABBEB2-AB15-4762-82E5-868F9022D78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7ABBEB2-AB15-4762-82E5-868F9022D78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7ABBEB2-AB15-4762-82E5-868F9022D78D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C5E17A8-2095-410A-9B57-D77ACF3E4394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5E17A8-2095-410A-9B57-D77ACF3E4394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5E17A8-2095-410A-9B57-D77ACF3E4394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5E17A8-2095-410A-9B57-D77ACF3E4394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{226E214C-99ED-4AEE-A223-3171904E39DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226E214C-99ED-4AEE-A223-3171904E39DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226E214C-99ED-4AEE-A223-3171904E39DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226E214C-99ED-4AEE-A223-3171904E39DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

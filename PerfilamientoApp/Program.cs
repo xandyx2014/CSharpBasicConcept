@@ -27,7 +27,7 @@ static void Algorithm2()
 }
 static void Algorithm1()
 {
-    StringBuilder sb = new StringBuilder();
+    var sb = new StringBuilder();
     for (int x = 0; x < numberOfIterations; x++)
     {
         sb.Append('a');

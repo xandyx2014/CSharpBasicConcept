@@ -120,7 +120,12 @@
       "ProjectGuid": "aa8cfcca-941f-4819-acee-eace4b6adf67",
       "DisplayName": "PerfilamientoApp",
       "ColorIndex": 6
+    },
+    "ed8c52f7-abdf-4e03-af81-28ff87b839e7": {
+      "ProjectGuid": "ed8c52f7-abdf-4e03-af81-28ff87b839e7",
+      "DisplayName": "ConectionStringSql",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }
