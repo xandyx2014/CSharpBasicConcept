@@ -125,7 +125,22 @@
       "ProjectGuid": "ed8c52f7-abdf-4e03-af81-28ff87b839e7",
       "DisplayName": "ConectionStringSql",
       "ColorIndex": 7
+    },
+    "b7abbeb2-ab15-4762-82e5-868f9022d78d": {
+      "ProjectGuid": "b7abbeb2-ab15-4762-82e5-868f9022d78d",
+      "DisplayName": "ImplicitTypesVarable",
+      "ColorIndex": 8
+    },
+    "2c5e17a8-2095-410a-9b57-d77acf3e4394": {
+      "ProjectGuid": "2c5e17a8-2095-410a-9b57-d77acf3e4394",
+      "DisplayName": "LinqQueries",
+      "ColorIndex": 9
+    },
+    "226e214c-99ed-4aee-a223-3171904e39db": {
+      "ProjectGuid": "226e214c-99ed-4aee-a223-3171904e39db",
+      "DisplayName": "SerializacionAndDeseralizacion",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 11
 }
